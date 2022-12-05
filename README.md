@@ -1,4 +1,4 @@
-# Platzi Recetas
+# PWA Curso de mit para samuel
 
 PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las features que tiene son:
 
@@ -8,9 +8,9 @@ PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Alg
 * Web Share API
 * Creado con [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Mira el [Live Demo](https://platzirecetas.now.sh/)
 
-![Captura de Recetas](.readme-static/ss.png)
+
+
 
 ## Scripts
 
@@ -18,6 +18,3 @@ Mira el [Live Demo](https://platzirecetas.now.sh/)
 * `npm run dev` para entorno de desarrollo
 * `npm run build && npm start` para producción
 
-## Licencia
-
-MIT
