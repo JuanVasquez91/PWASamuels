@@ -1,4 +1,4 @@
-# PWA Curso de mit para samuel
+# PWA Curso de MIT para samuel
 
 PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las features que tiene son:
 
